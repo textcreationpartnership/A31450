@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A calm answer to a bitter invective called A letter to the late author of The preparation for martyrdom by that author.</title>
+            <author>Cawdrey, Zachary, 1616-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31450</idno>
+            <idno type="STC">Wing C1644</idno>
+            <idno type="STC">ESTC R24126</idno>
+            <idno type="EEBO-CITATION">07952188</idno>
+            <idno type="OCLC">ocm 07952188</idno>
+            <idno type="VID">40702</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40702)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A calm answer to a bitter invective called A letter to the late author of The preparation for martyrdom by that author.</title>
+                  <author>Cawdrey, Zachary, 1616-1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Pook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Letter to the late author of The preparation for martyrdom.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40702:1"/>
+            <pb facs="tcp:40702:1" rendition="simple:additions"/>
+            <p>A CALM ANSWER To a Bitter INVECTIVE, CALLED, A LETTER to the late Author of The Preparation for Martyrdom.</p>
+            <p>By that Author.</p>
+            <q>
+               <bibl>
+                  <hi>2 Cor. 6.8.</hi>
+               </bibl>
+               <p>In all things approving your ſelves as the miniſters of God, by honour and diſhonour, by evil report and good report: as deceivers, and yet true.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Pet. 3.9.</hi>
+               </bibl>
+               <p>Render not evil for evil, nor railing for railing: but con<g ref="char:EOLhyphen"/>trariwiſe bleſſing, knowing that ye are thereunto called, that ye ſhould inherit a bleſſing.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Pool,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40702:2"/>
+            <pb n="3" facs="tcp:40702:2"/>
+            <head>A Calm ANSWER to a Bitter IN<g ref="char:EOLhyphen"/>VECTIVE, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Lately met with your Invective, ſtiled <hi>A Letter,</hi> which was publiſhed by you for ſome Weeks, if not Months, through the Nation, before it came to my knowledge: I ſuppoſe you deſigned it ſhould do me all the miſchief it could, before I heard of it.</p>
+            <p>I have attempted a calm and general Reply, by a juſt and true Re<g ref="char:EOLhyphen"/>preſentation of my ſelf and that Diſcourſe, without entring upon Par<g ref="char:EOLhyphen"/>ticulars in your Invective, leſt I ſhould raiſe my own Spirit in any degree, to that ferment of Rage, under which it appears that you was when you penned it.</p>
+            <p>I have alſo ſpeeded this away, before I know what Perſon it is who hath thus ſtudiouſly expoſed me to the Rage and Scorn of common Perſons; and as far as he can influence, hath ſtirred up the Magiſtrate to take away my Life; leſt knowing you, I ſhould have been tempt<g ref="char:EOLhyphen"/>ed to anſwer you in your kind: which I ſhall avoid, for I <hi>have not ſo learned Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> In the late times of Rebellion, I being Fellow of a Colledge in one of the Univerſities, was active to ſerve my Soveraign, the glorious Martyr, King <hi>Charles</hi> the Firſt, and afterwards our preſent gracious Soveraign, in the Univerſity, in the Royal Gariſons, and other<g ref="char:EOLhyphen"/>where, to the beſt of my power. I refuſed, with deteſtation, and never took either Covenant, Ingagement, or other Oath impoſed by the Uſurpers: For this I ſuffered ejection out of my Univerſity-pre<g ref="char:EOLhyphen"/>ferments, and after out of my Benefice in the Countrey; being ſe<g ref="char:EOLhyphen"/>queſtred, and all my Goods, my Money, my Books, yea Wearing-apparel (ſave what was on my Back) being ſeized.</p>
+            <pb n="4" facs="tcp:40702:3" rendition="simple:additions"/>
+            <p>Upon the happy Return of his Sacred Majeſty, I had, amongſt other Sufferers, liberty to return to my Benefice, to which my Ge<g ref="char:EOLhyphen"/>nerous and Loyal Patron had freely, and without my ſeeking, pre<g ref="char:EOLhyphen"/>ſented me, to which alſo the Lord Biſhop of the Dioceſs had granted me legal Inſtitution and Induction: but within leſs than ſix Months after Induction, before I had received any Profits, I was ſequeſtred.</p>
+            <p>I never in my whole Life, ſollicited any perſon for any Eccleſiaſti<g ref="char:EOLhyphen"/>cal Preferment, either Dignity or Benefice. I have indeed had ſeve<g ref="char:EOLhyphen"/>ral Benefices offered me, much better than that I have: but I refuſed them, being well contented with the Rectory I have; which yet is ſcarce one of the Third-rate Benefices in the Kingdom, at leaſt as I make of it, who live peaceably with my Neighbours.</p>
+            <p>When I returned to my Living, I found ſeveral Diſſenters in my Pariſh, I indeavoured to bring them to conform, and did prevail with many.</p>
+            <p>With thoſe few who yet diſſent (for, <hi>Sir,</hi> there are but few, what<g ref="char:EOLhyphen"/>ſoever you ſuggeſt to the contrary) who demeaned themſelves peace<g ref="char:EOLhyphen"/>ably and modeſtly, I declined not the Exchange of any friendly and neighbourly Kindneſs: yet ſtill I declared publickly, and to them pri<g ref="char:EOLhyphen"/>vately, my readineſs to give them the beſt Satisfaction I could, to bring them in to the Church. I have both by oral Diſcourſes and Letters, maintained the lawfulneſs of Conformity, in all the Parts of it, againſt ſuch eminent Diſſenters in the Country, as my Neighbours thought b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt able to defend the Cauſe of Nonconformity. I ſtill perſiſt, from time to time, to declare my readineſs to give all the Satisfaction I can to their Scruples; but in the mean time, I leave them to ſtand and fall to the Law, and I my ſelf conform to the utmoſt injoined by Law: Nor can you or any other prove, that I abate ſo much as a Ceremony; and I thank God, I conform with a well-ſatisfied Conſcience, not con<g ref="char:EOLhyphen"/>demning my ſelf in that which I allow. But ſtill I judge, There are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> amongſt the Non-Con's, both loyal, humble and conſcientious perſons; nor do either your Arguments againſt my Charity, or your Taunts, perſwade me to abate of it.</p>
+            <p>As for my Fellow-ſufferers, the old Cavaliers, I do believe, that as we ingaged and ſuffered for the beſt of Kings (whoſe moſt horrid Murder, like a prodigious Eclipſe of the Sun, aſtoniſhed the World) So moſt of the Nobility, Gentry and Clergy, and many of the Com<g ref="char:EOLhyphen"/>monalty, were of eminent Virtues, and ſincere Piety. Nor can you, without groſs abuſing Truth and Me, inſtance in an Expreſſion that is of other importance: But that many of us (alas! too many of us) were not ſo regular as we ſhould have been, is too ſad a Truth to he
+<pb n="5" facs="tcp:40702:3"/> denied. And I pray you <hi>(Sir)</hi> inſtruct me if you can, which way I might bring more Glory to God, and vindicate the Honour of our bleſſed Soveraign the Royal Martyr, and the Credit of a good Cauſe, than by owning, That it was for our Sins (the Sins of us Subject,) that we ſuffered from a righteous GOD, and loſt a gracious Soveraign, the good <hi>Joſiah,</hi> and for which we were given over to the will of our Ene<g ref="char:EOLhyphen"/>mies. I am confident, no pious Royaliſt will be angry with me for charging it there. I further declare, That I judge thoſe who have Abby-Lands, are as rightfully poſſeſt of them, as of any part of their Eſtates. And I know many, who have part of their Eſtates of that Tenure, to be as Pious, Loyal and Generous Perſons, as any the Na<g ref="char:EOLhyphen"/>tion knows: and to ſome of them, I thankfully own my ſelf perſo<g ref="char:EOLhyphen"/>nally obliged for their Reſpects, and I do reciprocally love and ho<g ref="char:EOLhyphen"/>nour them; and I am confident they think ſo, notwithſtanding your perverting my words (Pag. 6. as your manner is) which were level'd only againſt drunken <hi>Atheiſts</hi> and <hi>Hobbiſts.</hi>
+            </p>
+            <p>As I formerly acted and ſuffered for my Soveraign, ſo I ſtill bear him all Faith and Allegiance. I conſtantly and heartily pray for his Sacred <hi>Majeſty,</hi> for his Royal Conſort our gracious Queen, for the Illuſtrious Prince, his Royal Highneſs the Duke of <hi>York,</hi> and for all the Royal Family. I have oft, with abhorrence, declared againſt it, as a traiterous Poſition, and rank Popery, <hi>That a Subject may, on the ac<g ref="char:EOLhyphen"/>count of Religion, oppoſe the Rights of Princes:</hi> And I make it the firſt warranted Cauſe of Martyrdom, To ſuffer <hi>for perſiſting to fear God and the King, and not to meddle with thoſe who are given to change; and that if we ſuffer, becauſe in conſcience towards God we retain our Loyalty towards our Soveraign, we ſuffer for righteouſneſs ſake,</hi> Page 10</p>
+            <p>I do honour the moſt Reverend the Archbiſhop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Biſhops (and amongſt them, my own moſt pious and learned Dioceſan) as the Fa<g ref="char:EOLhyphen"/>thers and Governours of the Church: and have been inſtrumental to convince ſome who were otherwiſe minded, That in all the Primi<g ref="char:EOLhyphen"/>tive Churches, the Biſhop was over the Presbyters; and in all my Writings about that ſubject, I aſſert it.</p>
+            <p>For the reſt of the pious and learned Clergy of this Church (which are more, I believe, than any Chriſtian Church in the World can ſhew) I reverence them, and bleſs God for them.</p>
+            <p>So that you might, with as much ſhew of Truth, have charged me with the Rebellion of <hi>Wat Tyler,</hi> or the compoſing the <hi>Al<g ref="char:EOLhyphen"/>choran,</hi> as with any one of the Anti-Monarchical or Anti-Epiſcopal Poſitions or Practices you have ſuggeſted againſt me: and I am con<g ref="char:EOLhyphen"/>fident
+<pb n="6" facs="tcp:40702:4"/> (be you who you will) I have ſuffered as much, or more, from the men of thoſe Principles, as you have.</p>
+            <p>All your arguing therefore is only to this purpoſe, That I ſay one thing, but mean the contrary. I aſſert and prove, That Men may not reſiſt Authority, in caſe of the danger of Religion. O but ſay you, he means, They may, and muſt reſiſt. Might you not as juſtly and truly have ſaid, He ſaith and proves, That <hi>Jeſus is the Chriſt:</hi> but he means, <hi>Jeſus is not the Chriſt? Sir,</hi> Was either Truth or Charity conſulted by you when you wrote at this rate? Making my Diſcourſe to ſpeak direct Contradictions to it ſelf, that you might put upon it the appearance of Sedition?</p>
+            <p>If you had thought, that thoſe who read your <hi>Invective,</hi> would ever conſult the <hi>Diſcourſe</hi> you pretended to write againſt, there would certainly have been ſome reſtraint upon you to keep within the bounds of Truth, at leaſt of the appearance of Truth.</p>
+            <p>For, firſt, Let it but be ſuppoſed, that the Parliament declared Truth in their Vote, printed with the Form of Prayer to be uſed on Friday the 11th of <hi>April,</hi> 1679. appointed by the King's Proclama<g ref="char:EOLhyphen"/>tion, and his <hi>Majeſties</hi> ſpecial Command, which is interpretatively a Royal Atteſtation to that Vote: Which is as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Martis, 25. <hi>Martii,</hi> 1679.</date>
+                     </dateline>
+                  </opener>
+                  <p>Reſolved, <hi>nemine contradicente,</hi> by the Lords Spiritual and Temporal, and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, That they do declare, that they are fully ſatisfied, by the Proofs they have heard, That there now is, and for divers years laſt paſt hath been an horrid and treaſonable Plot and Con<g ref="char:EOLhyphen"/>ſpiracy, contrived and carried on by thoſe of the Popiſh Religion, for the murdering of His <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Sacred Perſon, and for ſubverting the Prote<g ref="char:EOLhyphen"/>ſtant Religion, and the ancient and eſtabliſhed Government of this Kingdom.</p>
+                  <closer>
+                     <signed>
+                        <hi>Jo. Brown,</hi> Cler. Parliament.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:40702:4" rendition="simple:additions"/>
+            <p>This therefore being ſuppoſed to be Truth, let it next be ſuppoſed, That his Sacred <hi>Majeſty,</hi> in further Atteſtation to, and tender Con<g ref="char:EOLhyphen"/>cernment for, the removal of the juſt fears of his Liege-People, did moſt wiſely and graciouſly propoſe, by the right Honourable the Lord Chancellour in Parliament (as appears by his printed Speech) thoſe moſt prudent and excellent Securities for the preſerving the Proteſtant Religion under a Popiſh Succeſſor, whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by his Lordſhip.</p>
+            <p>Let it next be ſuppoſed (which I know you are ready enough to ſuppoſe) That it was to be ſuſpected, that ſome factious Perſons, taking the advantage of theſe general Fears of Popery, might attempt to ſtir up the People to fight through their Fears (as your Phraſe is) in defence of their Religion.</p>
+            <p>Now then, I dare appeal to any unprejudiced Perſon, Whether an honeſt, well-meaning Man, concerned for the Peace of his Country, could more effectually contribute to the quiet of the ſame, than by perſwading his Country-men, firſt, That the great and only true ground of their Fears, of the ſubverting Religion, and of other Judg<g ref="char:EOLhyphen"/>ments, were their ſins, without the prevailing of which, their Ene<g ref="char:EOLhyphen"/>mies could do them no harm; and hereby he indeavours to ſtir up Men to timely Repentance.</p>
+            <p>Next, by convincing them, That under God's Mercy and Favour, they had all poſſible Security for their Religion at home, and Peace from abroad in his <hi>Majeſties</hi> moſt happy Conduct of Publick Affairs; and this is done without the leaſt inſinuation, ſo much as in a ſyl<g ref="char:EOLhyphen"/>lable, of any jealouſie of his <hi>Majeſties</hi> Royal Succeſſor, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>And then however to keep their Fears (whether well-grounded, or groundleſs) from raiſing any Diſtempers or Diſorders, I indea<g ref="char:EOLhyphen"/>vour to inſtill into my Reader, a love of, and indeavour after that ſpirit of Loyalty, Humility, Meekneſs, Charity and Heavenly-mindedneſs, under the power of which the Primitive Chriſtians lived and died.</p>
+            <p>And that theſe are the total Contents of that <hi>Diſcourſe,</hi> and the unfeigned Deſign of it, will appear to any confiderate Reader, and hath been atteſted to, by the Letter of Thanks which ſeveral pious, and loyal, and learned Divines and others, have ſent to me on that occaſion.</p>
+            <p>So that what I intended, and others received, as an Antidote againſt Sedition, you have uſed all your Art to miſ-repreſent it as Poiſon; and have ſerved both me and my <hi>Diſcourſe,</hi> as the bloody
+<pb n="8" facs="tcp:40702:5" rendition="simple:additions"/> Inquiſitors in <hi>Spain</hi> uſe the ſuffering Martyrs, the Proteſtants, there; you have ſowed me up in a <hi>Sambenito,</hi> a Coat painted all over with ugly Devils.</p>
+            <p>And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, this ſhort Narrative and Analyſis is a ſufficient Vindication of me and my <hi>Diſcourſe</hi> againſt your <hi>Invective;</hi> which is indeed nothing elſe but one continued Calumny, mixed with the moſt palpable Falſhood, and higheſt Contempt and Scorn imagi<g ref="char:EOLhyphen"/>nable.</p>
+            <p>I ſhall therefore, committing my Cauſe to a righteous God, indea<g ref="char:EOLhyphen"/>vour <hi>to poſſeſs my ſoul in patience,</hi> waiting for your other ſcouring Doſe with which you threaten me; tho I think (and you ſeem to glory in it) there cannot be a Doſe compounded of more ſublimated Miſchievouſneſs than this is. When your ſecond <hi>Invective</hi> ſhall come forth, I will anſwer both this and that, in all the Particulars which ſhall concern me; if I judge, that to do ſo, may redound to the Glory of GOD, and the Service of the Church, and my Country: otherwiſe, I ſhall be <hi>as one that heareth not, and in whoſe mouth are no reproofs.</hi>
+            </p>
+            <p>In the mean time, I ſhall continue to pray for you, and the Men of your Combination (if there be any) <hi>That God would forgive my enemies, perſecutors and ſlanderers, and turn their hearts.</hi>
+            </p>
+            <p>Adding alſo that of the Pſalmiſt, for my ſelf and other Sons of Peace, <hi>Pſal.</hi> 123.4, 5. <hi>Have mercy upon us, O Lord, have mercy upon us; for we are exceedingly filled with contempt, our ſoul is exceed<g ref="char:EOLhyphen"/>ingly filled with the ſcorning of thoſe that are at eaſe, and with the con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> of the proud.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40702:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
